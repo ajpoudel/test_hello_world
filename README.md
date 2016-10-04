@@ -1,2 +1,2 @@
 # test_hello_world
-Just testing how to us git
+Just testing how to use git
